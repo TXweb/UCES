@@ -1,0 +1,188 @@
+<html>
+<head>
+<!--Download database powered by paFileDB 3.1. Visit http://www.phparena.net/pafiledb for your own free copy!-->
+<!--If you're actually reading these comments, then you need a life....................-->
+<title>paFileDB 3.1</title>
+<style type="text/css">
+BODY {
+	background-color : #0080C0;
+	font-family : Tahoma;
+	font-size : 12px;
+}
+TABLE.table {
+	font-family : Tahoma;
+	font-size : 12px;
+}
+TABLE.headertable {
+	font-family : Tahoma;
+	font-size : 12px;
+	color : #FFFFFF;
+	border-collapse : collapse;
+	background : #0088CC;
+}
+TD.headercell{
+	background-image : url(styles/default/images/table.gif);
+}
+TD.datacell {
+	background : #FFFFFF;
+	font-family : Tahoma;
+	color : #000000;
+	font-size : 12px
+}
+TABLE.footer {
+	font-family : Tahoma;
+	font-size : 10px;
+}
+TABLE.stats {
+	font-family : Tahoma;
+	font-size : 10px;
+    border-collapse : collapse;
+}
+A:LINK, A:VISITED, A:ACTIVE {
+	font-family : Tahoma;
+	font-size : 12px;
+	color : #0080C0;
+}
+A:HOVER {
+	font-family : Tahoma;
+	font-size : 12px;
+	color : #000000;
+	text-decoration : none;
+}
+TABLE.LOCBAR {
+	font-family : Tahoma;
+	font-size : 10px;
+	color : #000000;
+	text-decoration : none;
+}
+A.SMALL:LINK, A.SMALL:ACTIVE {
+	font-family : Tahoma;
+	font-size : 10px;
+	color : #0080C0;
+	text-decoration : underline;
+}
+A.SMALL:VISITED {
+	font-family : Tahoma;
+	font-size : 10px;
+	color : #0080C0;
+	text-decoration : underline;
+}
+A.SMALL:HOVER {
+	font-family : Tahoma;
+	font-size : 10px;
+	color : #000000;
+	text-decoration : underline;
+}
+A.SMALL{
+	font-family : Tahoma;
+	font-size : 10px;
+	color : #000000;
+}
+A.HEAD:LINK, A.HEADL:ACTIVE {
+	font-family : Tahoma;
+	font-size : 12px;
+	color : #FFFFFF;
+	text-decoration : underline;
+}
+A.HEAD:VISITED {
+	font-family : Tahoma;
+	font-size : 12px;
+	color : #FFFFFF;
+	text-decoration : underline;
+}
+A.HEAD:HOVER {
+	font-family : Tahoma;
+	font-size : 12px;
+	color : #000000;
+	text-decoration : underline;
+}
+A.SMALLTEXT {
+	font-family : Tahoma;
+	font-size : 10px;
+	color : #000000
+}
+A.PIN:LINK, A.PIN:ACTIVE {
+	font-family : Tahoma;
+	font-size : 12px;
+	color : #0080C0;
+	text-decoration : underline;
+	font : bold;
+}
+A.PIN:VISITED {
+	font-family : Tahoma;
+	font-size : 12px;
+	color : #0080C0;
+	text-decoration : underline;
+	font : bold;
+}
+A.PIN:HOVER {
+	font-family : Tahoma;
+	font-size : 12px;
+	color : #000000;
+	text-decoration : underline;
+	font : bold;
+}
+.forminput {
+	font-size: 12px;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	color: #000000;
+	background-color: #EEEEEE;
+}</style>
+<script language="JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+</head>
+<body>
+<center>
+<!--Begin main table-->
+<table width="100%" height="99%" border="0" cellpadding="2" cellspacing="0" bgcolor="#FFFFFF" class="table">
+<tr>
+<td width="100%" height="100%" valign="top">
+<!--Begin header table-->
+<table width="100%" height="100" border="0" cellpadding="2" cellspacing="0" class="table">
+<tr>
+<td width="25%" valign="center" align="center">
+<a href="pafiledb.php"><img src="styles/default/images/logo.gif" border="0"></a>
+</td><td width="75%" valign="center" align="right">
+<a href="pafiledb.php?action=search"><img src="styles/default/images/search.gif" border="0"></a>&nbsp;&nbsp;<a href="pafiledb.php?action=stats"><img src="styles/default/images/stats.gif" border="0"></a>&nbsp;&nbsp;<a href="http://www.rct2uces.com/index2.html"><img src="styles/default/images/homepage.gif" border="0"></a>
+</td></tr></table>
+<!--End header table-->
+<!--Begin page table-->
+<table width="80%" height="30" border="0" cellpadding="2" cellspacing="0" class="table" align="center">
+<tr>
+<td width="100%" valign="top" align="left" colspan="2">
+
+	<table width="100%" height="30" border="0" cellpadding="2" cellspacing="0" class="locbar">
+        <tr>
+        <td width="100%" valign="center" align="left">
+        <a href="pafiledb.php" class="small">UCES Downloads</a> :: <a href="pafiledb.php?action=category&id=0" class="small"></a> :: <a href="pafiledb.php?action=file&id= 1" class="small">UCES Installer File</a> :: License Agreement
+        </td></tr></table>
+	<table width="100%" border="1" cellpadding="2" cellspacing="0" class="headertable" bordercolor="#000000">
+<tr><td width="100%" class="headercell"><center><b>UCES User License Agreement</b></center></td></tr>
+<tr><td width="20%" class="datacell"><b>You must agree to this license agreement to download <i>UCES Installer File</b></i><p>You must agree to this license agreement to download UCES Expansion Pack<br><br>All characters, images, names, tables, artwork and other information on this website remain the exclusive property of the original trademark/copyright holders.<br><br>Scenarios are copyright to the individual members and may not be redistributed either as is or changed, no matter how little or how much, and re-distributed as someone else's work.<br><br>Objects created by UCES members are copyright to those individual members and may not be distributed except as part of the export plug-in option.<br><br>Rides created by UCES members are copyright to those individual members and may not be distributed except in a saved game and are not to be distributed as a stand-alone download.<br><br>The UCES group is not responsible for any harm which may come to, or failure of, your computer which may occur from downloading these files. All UCES files are offered on an as-is basis and no guarantee is offered with them. They are not guaranteed to work on all systems and computers.<br><br>This site and this project are not affilated with Atari, Infogrames or Chris Sawyer and all Atari, Infogrames and Chris Sawyer trademarks and copyrights are exclusive to them.<br><br>While we are not currently working on a second UCES, we reserve the right to use the name and request that you do not use it in for your own projects.<br><br>The UCES project is a non-profit endeavor.<br><br>© 2003 UCES creative members </td></tr>
+<tr><td width="100%" class="headercell"><center><b><a href="pafiledb.php?action=download&id= 1" class="head">I Agree</a> | <a href="pafiledb.php?action=file&id= 1" class="head">I Don't Agree</a></b></center></td></tr>
+</table>
+</td></tr>
+<tr>
+<td width="50%" align="left">
+<form name="form1">
+        <select name="menu1" onChange="MM_jumpMenu('parent',this,0)" class="forminput">
+        <option value="/download/pafiledb/pafiledb.php?action=license&id=1&file=+1" selected>Category Jump</option>
+        <option value="/download/pafiledb/pafiledb.php?action=license&id=1&file=+1">---------</option></select></form></td><td width="50%" align="right">All times are Pacific Time</td></tr></table>
+<!--End page table-->
+<!--Begin footer table-->
+<table width="100%" height="30" border="0" cellpadding="2" cellspacing="0" class="footer">
+<tr>
+<td width="100%" valign="center" align="center">
+Powered by paFileDB 3.1<br>2002 <a href="http://www.phparena.net" class="small" target="phparena">PHP Arena</a>
+</td></tr>
+<tr><td width="100%" valign="center" align="center">
+</table>
+<!--End footer table-->
+<!--End main table-->
+</td></tr></table>

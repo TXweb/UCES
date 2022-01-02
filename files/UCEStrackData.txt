@@ -1,0 +1,302 @@
+A catagorized list of the 184 UCES tracks
+Compiled by aetherwave.
+
++++++++++++++++++
+
+Air Powered Vertical Coaster = 
+	UCES Creed of Apollo.TD6
+
+Bumper Boats =
+	UCES Lighthouse Bumper Boats -Jimi698.TD6 
+	UCES Sandbox Bumpers -kty.TD6
+	UCES Urbis Bumper Chariots -kty.TD6
+
+Canoes =
+	UCES Urbis Canoe Cupid -kty.TD6
+
+Car Ride =
+	UCES Candy Cars -HedlessChickn.TD6
+	UCES Candytown Cars -Spunknit.TD6
+	UCES Transformation Car Ride -Fossil.TD6
+
+Cat Boats =
+	UCES Babel catboat -kty.TD6
+
+[Caveman Cars] =
+	UCES Bigrock Caveman -Spunknit.TD6
+
+Cheshire Cats =
+	UCES Cowboy Kitties - Spunknit.TD6
+	UCES Kiddie Kats -Spunknit.TD6
+	UCES Leafhouse.TD6
+	UCES Tigress -Spunknit.TD6
+	UCES TimeMachine Cheshire Cats -Jimi698.TD6
+	UCES Urbis Catueduct -Kaffe.TD6
+
+Compact Inverted Coaster =
+	UCES Compact Inverted Coaster 2.TD6
+	UCES Transformation CmpctInvrt -Fossil.TD6
+
+Corkscrew Roller Coaster =
+	UCES Corkomania scream machine 1.TD6
+	UCES Dragon Corkscrew -Spunknit.TD6
+	UCES Over and Under -Jimi698.TD6
+	UCES The Gardener -ragingbullguy.TD6
+	UCES Urbis Inovative Twist -Kaffe.TD6
+
+Dinghy Slide =
+	UCES Transformation Dinghy -Fossil.TD6
+
+Double-deck Observation Tower =
+	UCES SandDune DDObsv -Spunknit.TD6
+	UCES Space Needle -Spunknit.TD6
+
+Flying Roller Coaster =
+	UCES Metamorph -Spunknit.TD6
+	UCES Sphinx -ragingbullguy.TD6
+
+Ghost Train =
+	UCES Babel's Gate -Spunknit.TD6
+	UCES Fun House -Spunknit.TD6
+
+Giga Coaster =
+	UCES Blue Sky -Spunknit.TD6
+	UCES Castle Kaleidoscope -Spunknit.TD6
+	UCES City Twister -ragingbullguy.TD6
+	UCES Crystaline Entity -Spunknit.TD6
+	UCES Ghost Ship -Spunknit.TD6
+	UCES Giga Pretzel -hedlesschickn.TD6
+	UCES Gradient Wave -Spunknit.TD6
+	UCES Jungle Fever -Spunknit.TD6
+	UCES Little Titan.TD6
+	UCES Machine -Spunknit.TD6
+	UCES Storm Signal.TD6
+	UCES The Hedgeclipper.TD6
+
+Go Karts =
+	UCES Babel Oasis Racers -ReddBaron.TD6
+	UCES Castle Towers -Katatude.TD6
+	UCES Clean Sweep -Katatude.TD6
+	UCES Food Court -Katatude.TD6
+	UCES In and Out -Katatude.TD6
+	UCES JungleKarts -Katatude.TD6
+	UCES Kiddy Karts -Jimi698.TD6
+	UCES KK2 Kiddy Kastle -ReddBaron.TD6
+	UCES Matrix Robot -Katatude.TD6
+	UCES Pixelated Go-Karts -Katatude.TD6
+	UCES RCT Carts -Katatude.TD6
+	UCES Rustic Carts -A14504 & Jimi698.TD6
+	UCES Sand Dreams -Katatude.TD6
+	UCES Show HorsePower -Katatude.TD6
+	UCES Spaced Out -Katatude.TD6
+	UCES Transformation Gen-R-8ElectricRe.TD6
+	UCES Ups 'n Downs -Katatude.TD6
+	UCES Uptight Karts -Katatude.TD6
+	UCES WaterMania -Katatude.TD6
+	UCES Wedding Cake -Katatude.TD6
+	UCES Wild West Racers -Jimi698.TD6
+
+Haunted Mansion Ride =
+	UCES Glitterbox -Spunknit.TD6
+	UCES Niagara HauntMansion -Spunknit.TD6
+	UCES Sandbox Haunt -Jimi698.TD6
+	UCES Transformation Haunted Mansion -Fossil.TD6
+
+Heartline Twister Coaster =
+	UCES Lighthouse Heartline -Jimi698.TD6
+
+Hyper-Twister Roller Coaster =
+	UCES Malaise -Spunknit.TD6
+
+Inverted Hairpin Coater =
+	UCES Kiddy Hairpin -Jimi698.TD6
+
+Inverted Roller Coaster =
+	UCES Abstract Alteration -Spunknit.TD6
+	UCES Creepy Crawler -ragingbullguy.TD6
+	UCES Inavertadavita.TD6
+
+Inverted Shuttle Coaster =
+	UCES Bronze Medal -PnkFloyd12.TD6
+	UCES Death.TD6
+	UCES Dragon InvertShuttle -Spunknit.TD6
+	UCES Famine.TD6
+	UCES Gold Medal -PnkFloyd12.TD6
+	UCES Pestilence.TD6
+	UCES Silver Medal -PnkFloyd12.TD6
+	UCES War.TD6
+
+Inverted Vertical Shuttle =
+	UCES Dragon VertShuttle -Spunknit.TD6
+
+Junior Roller Coaster =
+	UCES ChooChoo JrRollerCoaster -PnkFloyd12.TD6
+	UCES Fiesta Junior -Jimi698.TD6
+	UCES Golden Idol -Spunknit.TD6
+	UCES KK2 Marshmallow Mayhem -ReddBaron.TD6
+	UCES Lighthouse Jr -Jimi698.TD6
+	UCES Paradise Lost -Spunknit.TD6
+	UCES Teddy Terror -Spunknit.TD6
+
+LIM Launched Roller Coaster =
+	UCES Abstract Confusion -Jimi698.TD6
+	UCES Mine Shaft -ragingbullguy.TD6
+	UCES Spooky Limbs -HedlessChickn.TD6
+	UCES Transformation LIMLaunch -Fossil.TD6
+
+Launched Freefall =
+	UCES Apollo -HedlessChickn.TD6
+	UCES Niagara Outpost -ReddBaron.TD6
+
+Log Flume =
+	UCES Lighthouse Aqueduct Flume -ReddBaron.TD6
+	UCES Lighthouse LogFlume -Jimi698.TD6
+	UCES Monster Splash -Spunknit.TD6
+	UCES Niagara LogFlume -Spunknit.TD6
+	UCES Urbis Runaway Aqueduct -Kaffe.TD6
+	UCES Vesuvius Log Flume -Jimi698.TD6
+	UCES WonderFlume -HedlessChickn.TD6
+
+Looping Roller Coaster =
+	UCES Easy Rider -HedlessChickn.TD6
+
+Maze =
+	UCES Country Castle -ReddBaron.TD6
+	UCES MicroMaze -ReddBaron.TD6
+	UCES Sandbox Maze -Jimi698.TD6
+	UCES Transformation Maze -Fossil.TD6
+
+Mine Ride =
+	UCES KK2 Mine Ride -Spunknit.TD6
+	UCES Mine Over Matter -Fossil.TD6
+
+Mine Train Coaster =
+	UCES Code.TD6
+	UCES Niagara MineTrain -Spunknit.TD6
+
+Mini Golf =
+	UCES 3 Fountains Golf -Jimi698.TD6
+	UCES Frontier Niner -Spunknit.TD6
+	UCES Gladiator Golf -Spunknit.TD6
+	UCES Putt Putt Paradise -Jimi698.TD6
+
+Mini Helicopters =
+	UCES When Industry Goes Wrong -HedlessChickn.TD6
+
+Mini Roller Coaster =
+	UCES Transformation Mini -Fossil.TD6
+
+Mini Suspended Flying Coaster =
+	UCES Sandbox Mini Flying -Jimi698.TD6
+
+Miniature Railway =
+	UCES TimeMachine Rainbow Express -kty.TD6
+
+Monster Trucks =
+	UCES Mockingbird MonsterTruck -Spunknit.TD6
+	UCES Monster Truckin' -Jimi698.TD6
+	UCES Mountaineer -Spunknit.TD6
+	UCES Ruff & Ready -Spunknit.TD6
+
+[Motocross] =
+	UCES Niagara Mal de Mer -Katatude.TD6
+
+Motorbike Races =
+	UCES Motorbike Mayhem -Jimi698.TD6
+	UCES Transformation Motorbike -Fossil.TD6
+
+Multi-Dimension Roller Coaster =
+	UCES FlashBax -HedlessChickn.TD6
+
+River Rafts =
+	UCES Floating Safari.TD6
+	UCES Scenic River @ Luna -aetherwave.TD6
+	UCES TimeMachine River Rafts -Jimi698.TD6
+
+River Rapids =
+	UCES Transformation RvrRapids -Fossil.TD6
+
+Side-Friction Roller Coaster =
+	UCES Figure Eight @ Luna -aetherwave.TD6
+
+Spinning Wild Mouse =
+	UCES Mouse Capades -Spunknit.TD6
+	UCES Turn-Tail Mouse -Spunknit.TD6
+
+Spiral Roller Coaster =
+	UCES Celestial Voices -PnkFloyd12.TD6
+	UCES Lost World -Spunknit.TD6
+	UCES Mockingbird Flyer.TD6
+	UCES Sandbox Spiral -Jimi698.TD6
+	UCES TimeMachine Spiral Coaster -Jimi698.TD6
+	UCES Vertical Mamba -Spunknit.TD6
+
+Stand-up Roller Coaster =
+	UCES Golden Hawk -ragingbullguy.TD6
+
+Steeplechase =
+	UCES A Day at the Races -Jimi698.TD6
+	UCES Mockingbird Steeplechase -Jimi698.TD6
+	UCES Vesuvius Steeplechase -Jimi698.TD6
+
+Submarine Ride =
+	UCES Transformation Sub -kty.TD6
+
+Suspended Swinging Coaster =
+	UCES Centurian -Spunknit.TD6
+	UCES The Yetti -ragingbullguy.TD6
+
+Swans =
+	UCES Sandbox Swans -kty.TD6
+
+Twister Roller Coaster =
+	UCES Childhood's End -PnkFloyd12.TD6
+	UCES Glass House -Spunknit.TD6
+
+Vertical Drop Roller Coaster =
+	UCES ChooChoo Vertical -Spunknit.TD6
+	UCES Flinger -HedlessChickn.TD6
+	UCES Over the Falls -Spunknit.TD6
+	UCES Transformation Vertical -Fossil.TD6
+
+Vintage Cars =
+	UCES Fjord Production Line -PnkFloyd12.TD6
+	UCES Home and Gardens -Jimi698.TD6
+	UCES SandDune VintCar -Spunknit.TD6
+	UCES Vintage Voyage -Spunknit.TD6
+
+Virginia Reel =
+	UCES Twisted Tubs -Jimi698.TD6
+	UCES Urbis Wild Vines -Kaffe.TD6
+	UCES Vesuvius VA Reel -Toker.TD6
+
+Water Coaster =
+	UCES Chutes @ Luna -aetherwave.TD6
+	UCES Royal Flush -Kaffe.TD6
+
+Wild Mouse =
+	UCES ChooChoo WildMouse -Spunknit.TD6
+	UCES Mockingbird Mouse -Jimi698.TD6
+	UCES Rodentia -Spunknit.TD6
+	UCES Sand Castles -Spunknit.TD6
+	UCES The Kings Garden Get Away -Alphamale.TD6
+	UCES Tornado Twisted Mouse House -Alphamale.TD6
+
+Wooden Roller Coaster =
+	UCES Jimis Jumble.TD6
+	UCES Mars Voyager -Spunknit.TD6
+	UCES Something Else.TD6
+	UCES Twisted Twister.TD6
+	UCES Urbis Marble Mania -Kaffe.TD6
+	UCES Wind Force.TD6
+	UCES Windfall.TD6
+	UCES Windstorm.TD6
+	UCES Wood Cobra.TD6
+	UCES Wood Rattlesnake.TD6
+	UCES Wood Viper.TD6
+	UCES Wooden Anaconda.TD6
+	UCES Wooden Mocassin.TD6
+	UCES Wooden Spirit.TD6
+
+Wooden Wild Mouse =
+	UCES Hickory Dickory Dock -Spunknit.TD6
